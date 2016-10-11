@@ -1,6 +1,6 @@
 # Datos Abiertos GBA
 
-Datos.gba.gob.ar es el portal de datos abiertos de la Provincia de Buenos Aires, donde vamos a compartir con todos la información que es de todos. Podrás acceder a información pública sobre salud, educación, territorio, población, etc., para que puedas contar historias y generar valor agregado.
+[Datos.gba.gob.ar] es el portal de datos abiertos de la Provincia de Buenos Aires, donde vamos a compartir con todos la información que es de todos. Podrás acceder a información pública sobre salud, educación, territorio, población, etc., para que puedas contar historias y generar valor agregado.
 
 
 ### ¿Qué es Gobierno Abierto?
@@ -19,3 +19,5 @@ Los datos abiertos son datos provistos en formatos que permiten ser utilizados, 
 La apertura de datos es un medio fundamental para comprender mejor el funcionamiento del gobierno, fortalecer la transparencia, mejorar los servicios públicos y potenciar la innovación.
 
 Su libre disponibilidad permite que cualquier actor de la sociedad civil (investigadores, estudiantes, periodistas, organizaciones de la sociedad civil, emprendedores, empresas, etc.) pueda generar valor agregado, brindar nuevas oportunidades y así mejorar la calidad de vida.
+
+[Datos.gba.gob.ar]: <https://[datos.gba.gob.ar]>
