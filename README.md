@@ -20,4 +20,4 @@ La apertura de datos es un medio fundamental para comprender mejor el funcionami
 
 Su libre disponibilidad permite que cualquier actor de la sociedad civil (investigadores, estudiantes, periodistas, organizaciones de la sociedad civil, emprendedores, empresas, etc.) pueda generar valor agregado, brindar nuevas oportunidades y así mejorar la calidad de vida.
 
-[Datos.gba.gob.ar]: <https://[datos.gba.gob.ar]>
+[Datos.gba.gob.ar]: <https://datos.gba.gob.ar>
