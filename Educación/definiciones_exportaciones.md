@@ -1,3 +1,5 @@
+# Definiciones Conceptuales de EXPORTACIONES
+
 En esta sección se muestran datos referentes a las exportaciones con origen en la Provincia de Buenos Aires hacia el resto del mundo. La información disponible refiere al valor de las exportaciones en millones de dólares por grandes rubros y principales capítulos (Sistema armonizado/Mercosur), principales países de destino y zonas económicas. Los valores consignados para las exportaciones se refieren a valor FOB (libre de cargo a bordo) en dólares corrientes, en el puerto o lugar de embarque de las mercaderías. Estadísticas elaboradas por la Provincia en base a datos estimados por el INDEC para todo el país según las operaciones informadas por la Dirección General de Aduanas y fuentes de información complementarias.
 
 
