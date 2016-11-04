@@ -13,8 +13,8 @@ Identifica las modalidades y los niveles de enseñanza. Es la concreción del pr
 ### DEPENDENCIA
 
 Es la jurisdicción de la que dependen normativamente los establecimientos educativos. En la provincia de Buenos Aires se lo denomina sector de gestión. 
- - Estatal: aquellos establecimientos que son administrados directamente por el Estado Provincial o Municipal. 
- - Privada: aquellos que son administrados por instituciones o personas particulares.
+-  Estatal: aquellos establecimientos que son administrados directamente por el Estado Provincial o Municipal. 
+-  Privada: aquellos que son administrados por instituciones o personas particulares.
 
 ### TURNO
 
@@ -29,10 +29,10 @@ Es  el intervalo del dìa en que los alumnos desarrollan la mayor parte de sus a
 ### JORNADA ESCOLAR
 
 Es la cantidad de horas diarias de actividad en la que un grupo de alumnos recibe enseñanza.
- - Jornada Simple (hasta 29 horas semanales)
- - Jornada Extendida (30 horas semanales)
- - Jornada Agro-técnica (35 a 39 horas semanales)
- - Jornada Doble (40 horas semanales)
+-  Jornada Simple (hasta 29 horas semanales)
+-  Jornada Extendida (30 horas semanales)
+-  Jornada Agro-técnica (35 a 39 horas semanales)
+-  Jornada Doble (40 horas semanales)
 
 ### MATRÍCULA
 
