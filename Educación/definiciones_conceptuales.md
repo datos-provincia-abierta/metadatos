@@ -1,5 +1,4 @@
 # DEFINICIONES CONCEPTUALES OPERATIVAS
-# Relevamiento Anual 2015
 
 ### ESTABLECIMIENTO
 Constituye la unidad organizacional que contiene en su interior a las unidades educativas cuya creación o autorización se registra bajo un acto administrativo –Resolución de la DGCyE. 
