@@ -45,5 +45,5 @@ Son Modalidades del Sistema Educativo aquellos enfoques educativos, organizativo
  
 
 
-## [Link a Mapa Escolar](http://mapaescolar.dyndns.org/mapaescolar/)
+## [Link a Mapa Escolar](https://mapaescolar.abc.gob.ar/mapaescolar/)
 
